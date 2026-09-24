@@ -1,5 +1,8 @@
-## Hi there 👋
+# Hi 👋 I'm Tejaswini
 
+## My GitHub Contributions
+
+![3D Contribution Graph](./profile-3d-contrib/profile-green.svg)
 <!--
 **tejaswininh/tejaswininh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
