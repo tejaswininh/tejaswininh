@@ -1,4 +1,4 @@
-# Hi 👋 I'm Tejaswini
+# Hey! I'm Tejaswini
 
 ## My GitHub Contributions
 
