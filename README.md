@@ -1,6 +1,6 @@
 # Hey! I'm Tejaswini
 
-## My GitHub Contributions
+
 
 ![3D Contribution Graph](./profile-3d-contrib/profile-night-green.svg)
 <!--
